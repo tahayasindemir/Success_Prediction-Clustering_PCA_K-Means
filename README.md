@@ -37,4 +37,4 @@ reviews_list: 	list of tuples containing reviews for the restaurant, each tuple
 menu_item: 	contains list of menus available in the restaurant
 listed_in(city): 	contains the neighborhood in which the restaurant is listed
 
-Resources: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+Resources: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants 
